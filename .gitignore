@@ -4,6 +4,7 @@
 Gemfile.lock
 pkg/
 *.gem
+/vendor/bundle
 
 # Sass
 .sass-cache
